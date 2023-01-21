@@ -138,7 +138,7 @@ form input {
 
 
 form button{
-    background-color: #ffffff; /* Green */
+    background-color: #ffffff;
     border: none;
     color: rgb(0, 0, 0);
     padding: 15px 32px;
@@ -151,7 +151,7 @@ form button{
 }
 
 form button:hover{
-    background-color: rgb(36, 199, 144); /* Green */
+    background-color: rgb(36, 199, 144); 
     border: none;
     color: rgb(0, 0, 0);
 
