@@ -2361,6 +2361,7 @@ h6 {
 }
 
 .big-family-img {
+  height: 600px;
   margin-bottom: 4rem;
   border-radius: 4rem;
 }
