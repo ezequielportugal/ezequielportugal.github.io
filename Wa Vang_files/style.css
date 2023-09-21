@@ -2378,6 +2378,14 @@ h6 {
   margin-bottom: 0.2rem; /* Ajusta el valor según la cantidad de píxeles que desees levantar la imagen */
 }
 
+.soporte {
+  margin-right: 4rem;
+}
+
+.proximamente {
+  text-align: center;
+}
+
 @media screen and (max-width: 1400px) {
   .google-map-display {
     display: flex;
