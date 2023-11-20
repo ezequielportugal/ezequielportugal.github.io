@@ -2434,3 +2434,10 @@ h2.proximamente{
     display: flex;
   }
 }
+
+.navbar-nav a {
+  text-transform: lowercase;
+}
+.navbar-nav a::first-letter {
+  text-transform: uppercase;
+}
